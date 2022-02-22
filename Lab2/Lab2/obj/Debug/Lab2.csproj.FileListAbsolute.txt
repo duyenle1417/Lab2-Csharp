@@ -1,0 +1,15 @@
+E:\CODE\C#\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\CODE\C#\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\CODE\C#\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.Home.resources
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.Lab02_Bai1.resources
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.Lab02_Bai2.resources
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.Lab02_Bai3.resources
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.Lab02_Bai4.resources
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.Lab02_Bai5.resources
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\CODE\C#\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
